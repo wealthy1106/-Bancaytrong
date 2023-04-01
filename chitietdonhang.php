@@ -9,7 +9,7 @@
         <meta charset="UTF-8">
         <title>Chi Tiết Đơn Hàng</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
-        <link rel="shortcut icon" href="logo/Logo.PNG" type="image/vnd.microsoft.icon" >
+        <link rel="shortcut icon" href="logo và phong nen/Logo.PNG" type="image/vnd.microsoft.icon" >
         <script src="https://kit.fontawesome.com/f933a9a1ec.js" crossorigin="anonymous"></script>
         <link rel="stylesheet" href="css/index.css">
         <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
@@ -20,7 +20,7 @@
       <div style="height: 10%;">
         <header>
           <div class="container-fluid">
-            <img src="logo/nen.PNG" style="width: 100%;" alt="">
+            <img src="logo và phong nen/nen.PNG" style="width: 100%;" alt="">
           </div>
           <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -84,7 +84,7 @@
       <main class="container-fluid">
           <div class="row">
               <div class="col-4">
-                  <div><img src="logo/Logo.PNG" alt=""></div>
+                  <div><img src="logo và phong nen/Logo.PNG" alt=""></div>
                   <div>
                       <h1 style="text-align: center;">Thông Tin Mua Hàng</h1>
                       <br>
@@ -184,7 +184,7 @@
         <div class="container">
           <div class="row">
             <div class="col-4 " style=" margin: auto;"> 
-              <img src="logo/Logo.PNG" class="container-fluid" style="width: 100%;" alt="">
+              <img src="logo và phong nen/Logo.PNG" class="container-fluid" style="width: 100%;" alt="">
             </div>
             <div class="col-4" style=" margin: auto;" >
                 <ul>

@@ -1,0 +1,95 @@
+.falink{
+    padding: 4px;
+    min-width: 40px;
+    color: #fff;
+    background-color: #05cbf7be;
+}
+.fa-shopping{
+    padding: 4px;
+    min-width: 40px;
+    color: #3706ea;
+    background-color: #08cfeebe;
+}
+.fa-solid{
+    padding: 4px;
+    min-width: 40px;
+    color: #050114;
+    background-color: rgb(245, 248, 248);
+}
+#button{
+   color: black;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    padding: auto;
+}
+.fa-solid fa-cart-shopping{
+    color: aliceblue;
+    background-color: #fff;
+}
+main .row a{
+    font-size: 20px;
+    text-decoration: none;
+}
+#li li{
+    padding-top: 20px;
+    
+}
+#li li a{
+    color: #fcfffc;
+    text-decoration: none;
+}
+#row .col-4{
+    margin: 0 auto;
+    text-align: center;
+    padding-bottom: 50px;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+body{
+    height: 100%;
+}
+.top-head{
+    height: 10%;
+}
+header{
+    height: 20%;
+}
+main{
+    height: 50%;
+}
+footer{
+    height: 20%;
+}
+.sanpham{
+    height: 250px;
+    margin-bottom: 35px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+main{
+    font-size: 20px;
+}
+main #img {
+    text-align: center;
+}
+
+#daucau{
+    color: tomato;
+    padding-left: 30px;
+    font-size: 25px;
+}
+#tieude{
+    font-size: 30px;
+    text-align: center;
+}
+.chitiet{
+    color: brown;
+    text-decoration: none;
+}
